@@ -1,6 +1,6 @@
 const Boleto = () => {
     return (
-        <><p>Aqui deve ser a Boleto</p></>
+        <><p>Aqui deve ser a Boleto</p><p>oi</p></>
     );
 };
 
